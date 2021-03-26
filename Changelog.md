@@ -1,3 +1,8 @@
+# WolfHUD v3.4
+- General
+	- Updated to match new heists
+
+
 # WolfHUD v3.3
 
 
