@@ -1,4 +1,4 @@
-name: Update BLT Hash
+name: Update BLT Hash 2
 
 on:
   push:
