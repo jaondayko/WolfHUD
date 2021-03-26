@@ -2,13 +2,13 @@
     {
         "ident": "wolfhud",
         "hash": "63d1aa419b042026f8722e4783572bda23592de24dceabb8211720e6134c67d1",
-        "download_url": "https://github.com/Kamikaze94/WolfHUD/archive/master.zip",
-        "patchnotes_url": "https://github.com/Kamikaze94/WolfHUD/releases/latest"
+        "download_url": "https://github.com/jaondayko/WolfHUD/archive/master.zip",
+        "patchnotes_url": "https://github.com/jaondayko/WolfHUD/releases/latest"
     },
     {
         "ident": "fed_inv",
         "hash": "8add0cb6b55083e288fccea48d6478428880b4eb929a4dbf276dfd02c58baf79",
-        "download_url": "https://github.com/Kamikaze94/WolfHUD/raw/autoupdate/fed_inv.zip",
-        "patchnotes_url": "https://github.com/Kamikaze94/WolfHUD/releases/latest"
+        "download_url": "https://github.com/jaondayko/WolfHUD/raw/autoupdate/fed_inv.zip",
+        "patchnotes_url": "https://github.com/jaondayko/WolfHUD/releases/latest"
     }
 ]
