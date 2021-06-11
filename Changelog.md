@@ -1,3 +1,7 @@
+# WolfHUD v3.5
+- General
+	- Updated to fix timer in Dragon Heist
+	
 # WolfHUD v3.4
 - General
 	- Updated to match new heists
