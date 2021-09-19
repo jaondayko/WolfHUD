@@ -1,13 +1,13 @@
 [
     {
         "ident": "wolfhud",
-        "hash": "5552b1a8ebc64199dbb383b856ead03c2ff9dcdc0007d8e9b74fb62dd492dbcd",
+        "hash": "437d63c3f6ba5210610e21fa343a499b2b8d9ea1b9a782e030aaf2cf38c6f34e",
         "download_url": "https://github.com/jaondayko/WolfHUD/archive/master.zip",
         "patchnotes_url": "https://github.com/jaondayko/WolfHUD/releases/latest"
     },
     {
         "ident": "fed_inv",
-        "hash": "8add0cb6b55083e288fccea48d6478428880b4eb929a4dbf276dfd02c58baf79",
+        "hash": "6823ae6e528b6816f2aff2d098424a256cbf2476d53c47cb031b235a0792e5c3",
         "download_url": "https://github.com/jaondayko/WolfHUD/raw/autoupdate/fed_inv.zip",
         "patchnotes_url": "https://github.com/jaondayko/WolfHUD/releases/latest"
     }
