@@ -8,6 +8,8 @@ and writes it into the file _meta.json_.
 The game client checks your local version against this hash.  
 If it differs, it will download the zip from the provided URL and extract it into your mods directory.  
 
+Test
+
 ## Credit:
 The original code for the hash generation was made by fragtrane,  
 https://github.com/fragtrane/Python-SuperBLT-Hash-Calculator
