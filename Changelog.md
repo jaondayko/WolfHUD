@@ -1,5 +1,9 @@
 # WolfHUD v3.5
 - General
+	- Updated Fed Inv. (Thanks MrDogit)
+
+# WolfHUD v3.5
+- General
 	- Updated to fix timer in Dragon Heist
 	
 # WolfHUD v3.4
