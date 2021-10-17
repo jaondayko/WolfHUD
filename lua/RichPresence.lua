@@ -396,6 +396,7 @@ if RequiredScript == "lib/managers/platformmanager" then
 			["#Level_red_money_stage_001"] = 	"Red Money",
 			["#Job_hidden_vault"] = 			"Hidden Vault", 
 			["#Level_hidden_vault"] = 			"Hidden Vault",
+			["#Job_chca"] = 				"Black Cat Heist",
 		}
 
 		local data = {
