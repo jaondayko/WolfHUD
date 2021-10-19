@@ -1,3 +1,7 @@
+# WolfHud v3.6
+- General
+ 	- Added new weapon names
+ 	- Added new heist into Steam Overlay
 # WolfHUD v3.5
 - General
 	- Updated Fed Inv. (Thanks MrDogit)
