@@ -330,6 +330,8 @@ if RequiredScript == "lib/managers/platformmanager" then
 			["#Level_pex"] = 				"Breakfast in Tijuana",
 			["#Job_fex"] = 					"Buluc's Mansion",
 			["#Level_fex"] = 				"Buluc's Mansion",
+			["#Job_chca"] = 				"Black Cat Heist",
+			[#Level_chca"] =				"Black Cat Heist",
 
 			--Custom Heists
 			["#Job_zm_kino"] = 					"Kino Der Minetoten", 
@@ -396,7 +398,6 @@ if RequiredScript == "lib/managers/platformmanager" then
 			["#Level_red_money_stage_001"] = 	"Red Money",
 			["#Job_hidden_vault"] = 			"Hidden Vault", 
 			["#Level_hidden_vault"] = 			"Hidden Vault",
-			["#Job_chca"] = 				"Black Cat Heist",
 		}
 
 		local data = {
