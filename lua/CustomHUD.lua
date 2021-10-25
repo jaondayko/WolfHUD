@@ -4274,7 +4274,7 @@ if RequiredScript == "lib/managers/hudmanagerpd2" then
 
 			local name = string.gsub(teammate_panel:name(), "%W", "")
 			for _, label in ipairs(self._hud.name_labels) do
-				if string.gsub(label.character_name, "%W", "") == name then
+				if string.gsub(label.character_name or "", "%W", "") == name then
 					if stopped and not label.panel:child("stopped") then
 						local texture, texture_rect = tweak_data.hud_icons:get_icon_data("ai_stopped")
 						local label_stop_icon = label.panel:bitmap({name = "stopped", texture = texture, texture_rect = texture_rect})
