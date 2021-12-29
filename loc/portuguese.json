@@ -1000,5 +1000,8 @@
 	"wolfhud_skipit_options_name" : "Opções de pulo",
 	"wolfhud_skipit_options_help" : "Opções para pular menus desnecessários automaticamente e poupar seu tempo.",
 	"wolfhud_assaultbanner_options_name" : "Opções do Assault Banner",
-"wolfhud_assaultbanner_options_help" : "Opções para mudar o Assault Banner."
+	"wolfhud_assaultbanner_options_help" : "Opções para mudar o Assault Banner.",
+	
+	"wolfhud_disable_blend_mode_title" : "Disable Blend Mode For CustomHUD",
+	"wolfhud_disable_blend_mode_desc" : "Disables the blend mode for CustomHUD"
 }

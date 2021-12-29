@@ -1001,5 +1001,8 @@
 	"wolfhud_skipit_options_name" : "跳过选项",
 	"wolfhud_skipit_options_help" : "自动跳过不必要的菜单，节省您的时间。",
 	"wolfhud_assaultbanner_options_name" : "突击横幅选项",
-	"wolfhud_assaultbanner_options_help" : "更改突击横幅的选项。"
+	"wolfhud_assaultbanner_options_help" : "更改突击横幅的选项。",
+	
+	"wolfhud_disable_blend_mode_title" : "Disable Blend Mode For CustomHUD",
+	"wolfhud_disable_blend_mode_desc" : "Disables the blend mode for CustomHUD"
 }

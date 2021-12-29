@@ -438,6 +438,14 @@ if WolfHUD then
 						visible_reqs = {}, enabled_reqs = {},
 					},
 					{
+						type = "toggle",
+						name_id = "wolfhud_disable_blend_mode_title",
+						desc_id = "wolfhud_disable_blend_mode_desc",
+						visible_reqs = {},
+						enabled_reqs = {},
+						value = {"CustomHUD", "DisableBlend"},
+					},
+					{
 						type = "divider",
 						size = 8,
 					},
