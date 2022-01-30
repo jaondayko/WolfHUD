@@ -25,6 +25,7 @@ if not _G.WolfHUD then
 			LANGUAGE 								= default_lang,
 			CustomHUD = {
 				ENABLED 							= true,
+				DisableBlend						= false,
 				PLAYER = {
 					POSITION						= 2,		-- left (1), center (2) or right (3)
 					SCALE 							= 1,		--Size of local Player HUD Panel

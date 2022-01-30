@@ -999,5 +999,8 @@
 	"wolfhud_skipit_options_name" : "Paramètres : Skip-It",
 	"wolfhud_skipit_options_help" : "Paramètres qui permet de sauter automatiquement des menus inutiles afin de gagner du temps.",
 	"wolfhud_assaultbanner_options_name" : "Paramètres de la bannière d'assaut",
-	"wolfhud_assaultbanner_options_help" : "Paramètres pour changer l'apparence de la bannière d'assaut."
+	"wolfhud_assaultbanner_options_help" : "Paramètres pour changer l'apparence de la bannière d'assaut.",
+	
+	"wolfhud_disable_blend_mode_title" : "Disable Blend Mode For CustomHUD",
+	"wolfhud_disable_blend_mode_desc" : "Disables the blend mode for CustomHUD"
 }

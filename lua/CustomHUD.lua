@@ -1808,7 +1808,7 @@ if RequiredScript == "lib/managers/hud/hudteammate" then
 			name = "health_radial",
 			texture = "guis/textures/pd2/hud_health",
 			render_template = "VertexColorTexturedRadial",
-			blend_mode = "add",
+			blend_mode = "normal" and WolfHUD:getSetting({"WolfHUDCustomHUD", "DisableBlend"}, false) or "add",
 			color = Color(1, 1, 1),
 			h = self._size,
 			w = self._size,
@@ -1820,7 +1820,7 @@ if RequiredScript == "lib/managers/hud/hudteammate" then
 			name = "stored_health_radial",
 			texture = "guis/textures/pd2/hud_health",
 			render_template = "VertexColorTexturedRadial",
-			blend_mode = "add",
+			blend_mode = "normal" and WolfHUD:getSetting({"WolfHUDCustomHUD", "DisableBlend"}, false) or "add",
 			color = Color(0, 0, 0),
 			alpha = 0.5,
 			h = self._size,
@@ -1902,7 +1902,7 @@ if RequiredScript == "lib/managers/hud/hudteammate" then
 		local center_bg = self._panel:bitmap({
 			name = "center_bg",
 			texture = "guis/textures/pd2/crimenet_marker_glow",
-			blend_mode = "normal",
+			blend_mode = "add" and WolfHUD:getSetting({"WolfHUDCustomHUD", "DisableBlend"}, false) or "normal",
 			color = Color.black,
 			alpha = 0.65,
 			w = self._size,
@@ -4272,9 +4272,8 @@ if RequiredScript == "lib/managers/hudmanagerpd2" then
 			teammate_panel:set_ai_stopped(stopped)
 			teammate_panel:set_condition(stopped and "ai_stopped" or "mugshot_normal", stopped and "HOLD" or "NORMAL")
 
-			local name = string.gsub(teammate_panel:name(), "%W", "")
 			for _, label in ipairs(self._hud.name_labels) do
-				if string.gsub(label.character_name or "", "%W", "") == name then
+				if label.id == ai_id then
 					if stopped and not label.panel:child("stopped") then
 						local texture, texture_rect = tweak_data.hud_icons:get_icon_data("ai_stopped")
 						local label_stop_icon = label.panel:bitmap({name = "stopped", texture = texture, texture_rect = texture_rect})
