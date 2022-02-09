@@ -1003,5 +1003,5 @@
 	"wolfhud_assaultbanner_options_help" : "어설트 배너를 설정합니다.",
 	
 	"wolfhud_disable_blend_mode_title" : "Disable Blend Mode For CustomHUD",
-	"wolfhud_disable_blend_mode_desc" : "Disables the blend mode for CustomHUD"
+	"wolfhud_disable_blend_mode_desc" : "Disables the blend mode for CustomHUD. Increases the contrast of the interface."
 }

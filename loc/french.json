@@ -1002,5 +1002,5 @@
 	"wolfhud_assaultbanner_options_help" : "Paramètres pour changer l'apparence de la bannière d'assaut.",
 	
 	"wolfhud_disable_blend_mode_title" : "Disable Blend Mode For CustomHUD",
-	"wolfhud_disable_blend_mode_desc" : "Disables the blend mode for CustomHUD"
+	"wolfhud_disable_blend_mode_desc" : "Disables the blend mode for CustomHUD. Increases the contrast of the interface."
 }

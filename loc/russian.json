@@ -1003,6 +1003,6 @@
 	"wolfhud_assaultbanner_options_name" : "Настройки баннера штурма",
 	"wolfhud_assaultbanner_options_help" : "Настройки для изменений баннера штурма.",
 	
-	"wolfhud_disable_blend_mode_title" : "Disable Blend Mode For CustomHUD",
-	"wolfhud_disable_blend_mode_desc" : "Disables the blend mode for CustomHUD"
+	"wolfhud_disable_blend_mode_title" : "Выключить режим смешивания для CustomHUD",
+	"wolfhud_disable_blend_mode_desc" : "Выключает режим смешивания для CustomHUD. Повышает контрастность интерфейса."
 }

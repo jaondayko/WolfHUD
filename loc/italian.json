@@ -996,5 +996,5 @@
     "wolfhud_assaultbanner_options_help" : "Opzioni per cambiare la barra d'assalto.",
 	
 	"wolfhud_disable_blend_mode_title" : "Disable Blend Mode For CustomHUD",
-	"wolfhud_disable_blend_mode_desc" : "Disables the blend mode for CustomHUD"
+	"wolfhud_disable_blend_mode_desc" : "Disables the blend mode for CustomHUD. Increases the contrast of the interface."
 }
