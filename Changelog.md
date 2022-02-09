@@ -1,3 +1,7 @@
+# WolfHUD v3.7
+- General
+	- Added switch to disable blend mode
+
 # WolfHud v3.6
 - General
  	- Added new weapon names.
