@@ -4,6 +4,7 @@
 
     "wolfhud_dialog_force_start_title" : "Forzare l'avvio del gioco?",
     "wolfhud_dialog_force_start_desc" : "Sei sicuro di voler forzare il riavvio del gioco?\n\nPer favore, usalo solo in caso di lobby buggate, o se un giocatore è afk.\nAssicuratevi che ognuno dei vostri compagni abbia avuto il tempo di scegliere il proprio equipaggiamento.\n\nGrazie :)",
+	"wolfhud_dialog_force_start_msg" : "The game was forced to start",
     "wolfhud_dialog_install_title" : "Installazione: $NAME",
     "wolfhud_dialog_install_desc" : "Vuoi davvero installare '$NAME'?",
     "wolfhud_dialog_remind_later" : "Chiedimelo più tardi",

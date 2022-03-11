@@ -4,6 +4,7 @@
 
 	"wolfhud_dialog_force_start_title" : "Принудительно запустить игру?",
 	"wolfhud_dialog_force_start_desc" : "Вы уверены, что хотите принудительно начать игру?\n\nИспользуйте эту функцию только если лобби заглючило или игрок отошел.\nУбедитесь, что у всех было достаточно времени для выбора снаряжения.\n\nСпасибо :)",
+	"wolfhud_dialog_force_start_msg" : "The game was forced to start",
 	"wolfhud_dialog_install_title" : "Установка: $NAME",
 	"wolfhud_dialog_install_desc" : "Вы действительно хотите установить '$NAME'?",
 	"wolfhud_dialog_remind_later" : "Спросить позже",

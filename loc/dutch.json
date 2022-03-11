@@ -4,6 +4,7 @@
 
 	"wolfhud_dialog_force_start_title" : "Forceer starten van de game?",
 	"wolfhud_dialog_force_start_desc" : "Weet je zeker dat je de game wilt forceren om te starten?\n\nGebruik dit alleen als de lobby gebug'd is of er een speler afwezig is.\nWees er zeker van dat iedereen de tijd heeft gehad om zijn uitrusting te kiezen.\n\nDankjewel :)",
+	"wolfhud_dialog_force_start_msg" : "The game was forced to start",
 	"wolfhud_dialog_install_title" : "Installeer: $NAME",
 	"wolfhud_dialog_install_desc" : "Wil je '$NAME' installeren?",
 	"wolfhud_dialog_remind_later" : "Vraag me later weer",
