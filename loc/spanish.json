@@ -4,6 +4,7 @@
 
 	"wolfhud_dialog_force_start_title" : "¿Forzar inicio de partida?",
 	"wolfhud_dialog_force_start_desc" : "¿Deseas forzar el inicio de la partida?Seg?\n\nPor favor solo usa esto en lobbies bugeados, o si un jugador esta afk.\nAsegurate de que todos tienen el tiempo suficiente para elegir su equipo.\n\nGracias :)",
+	"wolfhud_dialog_force_start_msg" : "The game was forced to start",
 	"wolfhud_dialog_install_title" : "Instalar: $NAME",
 	"wolfhud_dialog_install_desc" : "Quieres instalar '$NAME'?",
 	"wolfhud_dialog_remind_later" : "Preguntar luego",

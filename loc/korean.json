@@ -4,6 +4,7 @@
 
 	"wolfhud_dialog_force_start_title" : "강제로 게임을 시작할까요?",
 	"wolfhud_dialog_force_start_desc" : "정말로 강제로 게임을 시작하시겠습니까?\n이 기능을 잠수 플레이어, 버그걸린 로비일때만 사용해주세요.\n그리고 모든 플레이어가 무기를 바꿀 시간도 주시구요.\n\n감사합니다 :)",
+	"wolfhud_dialog_force_start_msg" : "The game was forced to start",
 	"wolfhud_dialog_install_title" : "설치: $NAME",
 	"wolfhud_dialog_install_desc" : "'$NAME' 를(을) 설치하고 싶습니까?",
 	"wolfhud_dialog_remind_later" : "다중에 다시 물어보기",
