@@ -1,3 +1,7 @@
+# WolfHUD v3.7.1
+- General
+	- Fixed Mountain Heist crash
+
 # WolfHUD v3.7
 - General
 	- Added switch to disable blend mode
