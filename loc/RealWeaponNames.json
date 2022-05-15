@@ -73,12 +73,14 @@
     "bm_w_sbl"                  : "Marlin Model 1895",
     "bm_w_r700"                 : "Remington Model 700P",
     "bm_w_qbu88"                : "Norinco QBU-88",
+    "bm_w_scout"                : "Steyr Scout",
 
     "bm_w_rpk"                  : "Izhmash RPK",
     "bm_w_m249"                 : "FN M249 Para",
     "bm_w_hk21"                 : "H&K 21E",
     "bm_w_mg42"                 : "MG-42",
     "bm_w_par"                  : "FN M240B",
+    "bm_w_hk51b"                : "H&K 51 Bravo",
 
     "bm_w_usp"                  : "H&K USP Tactical .45",
     "bm_w_g22c"                 : "Glock 22C",
@@ -158,6 +160,7 @@
     "bm_w_arbiter"              : "H&K XM-25",
     "bm_w_ray"                  : "M202 FLASH",
     "bm_w_slap"                 : "H&K M320",
+    "bm_w_ms3gl"                : "Metal Storm 3GL",
 
     "bm_w_x_coal"               : "Akimbo PP-19 Bizon",
     "bm_w_x_uzi"                : "Akimbo IMI Uzi",
