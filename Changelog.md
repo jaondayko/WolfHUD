@@ -1,3 +1,14 @@
+# WolfHUD v3.7.2
+- General
+	- Fix typo in the MM fix
+	- Fixed DamageIndicator
+	- Fix the unnecessary capitalization of certain words, primarily in the preplanning messages
+	- Remove periods from chat messages
+	- Spacing fixed where needed
+	- Use gender-neutral pronouns
+	- Move the force start chat message to the localization files
+	- Federal Inventory 12.05.2022
+
 # WolfHUD v3.7.1
 - General
 	- Fixed Mountain Heist crash
