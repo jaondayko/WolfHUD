@@ -332,6 +332,10 @@ if RequiredScript == "lib/managers/platformmanager" then
 			["#Level_fex"] = 				"Buluc's Mansion",
 			["#Job_chca"] = 				"Black Cat Heist",
 			["#Level_chca"] =				"Black Cat Heist",
+			["#Job_pent"] = 				"Mountain Master",
+			["#Level_pent"] =				"Mountain Master",
+			["#Job_ranc"] = 				"Midland Ranch",
+			["#Level_ranc"] =				"Midland Ranch",
 
 			--Custom Heists
 			["#Job_zm_kino"] = 					"Kino Der Minetoten", 
