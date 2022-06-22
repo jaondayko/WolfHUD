@@ -123,12 +123,12 @@ if RequiredScript == "lib/managers/platformmanager" then
 			["#raw_status"] =				"{#State_%game:state%}",
 
 			-- Game states
-			["#State_menu"] =				"At the main menu",
-			["#State_private"] =			"In a private lobby",
-			["#State_lobby_no_job"] =		"In a lobby",
-			["#State_lobby"] =				"Lobby: {#Mode_%game:mode%}",
-			["#State_playing"] =			"Playing: {#Mode_%game:mode%}",
-			["#State_payday"] =				"Payday: {#Mode_%game:mode%}",
+			["#State_menu"]         = managers.localization:text("wolfhud_state_menu"),
+			["#State_private"]      = managers.localization:text("wolfhud_state_private"),
+			["#State_lobby_no_job"] = managers.localization:text("wolfhud_state_lobby_no_job"),
+			["#State_lobby"]        = managers.localization:text("wolfhud_state_lobby") .. ": {#Mode_%game:mode%}",
+			["#State_playing"]      = managers.localization:text("wolfhud_state_playing") .. ": {#Mode_%game:mode%}",
+			["#State_payday"]       = managers.localization:text("wolfhud_state_payday") .. ": {#Mode_%game:mode%}",
 
 			-- Game modes
 			["#Mode_crime_spree"] =			"[CS] {#Level_%game:heist%} (Lvl. %game:difficulty%)",
@@ -137,14 +137,14 @@ if RequiredScript == "lib/managers/platformmanager" then
 			["#Mode_heist_chain"] =			"{#Job_%game:heist%}, Day %game:heist_day% ({#Difficulty_%game:difficulty%})",
 
 			-- Difficulties
-			["#Difficulty_easy"] =			"EASY",
-			["#Difficulty_normal"] =		"NORMAL",
-			["#Difficulty_hard"] =			"HARD",
-			["#Difficulty_overkill"] =		"VERY HARD",
-			["#Difficulty_overkill_145"] =	"OVERKILL",
-			["#Difficulty_easy_wish"] =		"MAYHEM",
-			["#Difficulty_overkill_290"] =	"DEATHWISH",
-			["#Difficulty_sm_wish"] =		"DEATH SENTENCE",
+			["#Difficulty_easy"]         = managers.localization:text("wolfhud_difficulty_easy"),
+			["#Difficulty_normal"]       = managers.localization:text("wolfhud_difficulty_normal"),
+			["#Difficulty_hard"]         = managers.localization:text("wolfhud_difficulty_hard"),
+			["#Difficulty_overkill"]     = managers.localization:text("wolfhud_difficulty_very_hard"),
+			["#Difficulty_overkill_145"] = managers.localization:text("wolfhud_difficulty_overkill"),
+			["#Difficulty_easy_wish"]    = managers.localization:text("wolfhud_difficulty_mayhem"),
+			["#Difficulty_overkill_290"] = managers.localization:text("wolfhud_difficulty_deathwish"),
+			["#Difficulty_sm_wish"]      = managers.localization:text("wolfhud_difficulty_death_sentence"),
 
 			["#Job_short"] = 				"The Basics",					-- Tutorials
 			["#Job_short1"] = 				"Flash Drive - Stealth",
