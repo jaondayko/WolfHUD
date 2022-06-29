@@ -898,6 +898,8 @@
 	"wolfhud_doubletap_nades_stealth_desc" : "When checked, you need to doubletap to throw a nade in stealth. \nOnly to prevent accidents.",
 	"wolfhud_hold_to_pick_title" : "Auto Pickup",
 	"wolfhud_hold_to_pick_desc" : "Small loot will be automatically picked up, while pressing your interaction key.",
+	"wolfhud_hold_to_pick_delay_title" : "Auto Pickup Speed",
+	"wolfhud_hold_to_pick_delay_desc" : "Time between automatic pickups while the interact button is held.",
 
 	"wolfhud_inventory_options_name" : "Inventory Tweak Options",
 	"wolfhud_inventory_options_help" : "Options to change the visuals of your Inventory and alter Equipment behavior.",

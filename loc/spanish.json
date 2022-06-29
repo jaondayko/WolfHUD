@@ -897,6 +897,8 @@
 	"wolfhud_doubletap_nades_stealth_desc" : "Cuando está activo necesitas oprimir el botón 2 veces para tirar la granada durante sigilo. \nSólo para prevenir accidentes.",
 	"wolfhud_hold_to_pick_title" : "Recoger Automáticamente",
 	"wolfhud_hold_to_pick_desc" : "Loot pequeño (como fajos de billetes) serán recogidos cuando presiones tu tecla de interacción.",
+	"wolfhud_hold_to_pick_delay_title" : "Auto Pickup Speed",
+	"wolfhud_hold_to_pick_delay_desc" : "Time between automatic pickups while the interact button is held.",
 
 	"wolfhud_inventory_options_name" : "Opciones de ajustes de inventario",
 	"wolfhud_inventory_options_help" : "Ajustes para cambiar el comportamiento de tu inventario y equipamiento.",

@@ -897,6 +897,8 @@
 	"wolfhud_doubletap_nades_stealth_desc" : "Quando marcado, você precisa apertar a tecla 2x para arremessar uma granada no stealth. \nApenas para prevenir acidentes.",
 	"wolfhud_hold_to_pick_title" : "Pickup automático",
 	"wolfhud_hold_to_pick_desc" : "Todo loot pequeno será pego automaticamente, enquanto a tecla de interação estiver pressionada.",
+	"wolfhud_hold_to_pick_delay_title" : "Auto Pickup Speed",
+	"wolfhud_hold_to_pick_delay_desc" : "Time between automatic pickups while the interact button is held.",
 
 	"wolfhud_inventory_options_name" : "Opções de melhoria no inventário",
 	"wolfhud_inventory_options_help" : "Opções para mudar o visual e o comportamento do seu inventário.",

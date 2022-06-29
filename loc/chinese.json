@@ -898,6 +898,8 @@
 	"wolfhud_doubletap_nades_stealth_desc" : "选中此项后，潜入时大部分不消音的东西都需要双击,以防止事故。",
 	"wolfhud_hold_to_pick_title" : "自动拾取",
 	"wolfhud_hold_to_pick_desc" : "当您按下互动键时，小的战利品将会被自动拾取。",
+	"wolfhud_hold_to_pick_delay_title" : "Auto Pickup Speed",
+	"wolfhud_hold_to_pick_delay_desc" : "Time between automatic pickups while the interact button is held.",
 
 	"wolfhud_inventory_options_name" : "装备调整选项",
 	"wolfhud_inventory_options_help" : "设置您的装备在游戏中的默认状态。",

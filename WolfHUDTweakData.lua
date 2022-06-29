@@ -37,8 +37,6 @@ function WolfHUDTweakData:init()
 	self.STEALTH_SHAPED_CHARGE_TIMEOUT = 0.25
 	-- Time within 2 presses of the interact button, to close a door using a keycard. (hoxton breakout day 2)
 	self.KEYCARD_DOORS_TIMEOUT = 0.25
-	-- Time between 2 automatical pickups, when the interaction button remains pressed.
-	self.AUTO_PICKUP_DELAY = 0.2
 
 	-- Component Layouts  for Lobby and briefing loadout panels.
 	-- The total width and height of those panels are fixed, so adding too many components into a row or column will make them incredibly small.

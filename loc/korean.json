@@ -897,6 +897,8 @@
 	"wolfhud_doubletap_nades_stealth_desc" : "스텔스 일 경우 수류탄을 던지려면 2번 연속 키를 눌러야됩니다. \n사고 방지용.",
 	"wolfhud_hold_to_pick_title" : "인스턴트 자동 줍기",
 	"wolfhud_hold_to_pick_desc" : "상호작용 키 를 계속 누르고 있으면 자동으로 인스턴트 캐쉬가 주워집니다.",
+	"wolfhud_hold_to_pick_delay_title" : "Auto Pickup Speed",
+	"wolfhud_hold_to_pick_delay_desc" : "Time between automatic pickups while the interact button is held.",
 
 	"wolfhud_inventory_options_name" : "인벤토리 설정",
 	"wolfhud_inventory_options_help" : "인벤토리가 어떻게 작동할지 설정합니다",

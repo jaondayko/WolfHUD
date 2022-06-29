@@ -890,6 +890,8 @@
     "wolfhud_doubletap_nades_stealth_desc" : "Se selezionato, dovrai premere due volte il tasto per le granate durante la fase stealth. \nServe solo per prevenire incidenti.",
     "wolfhud_hold_to_pick_title" : "Raccoglimento automatico",
     "wolfhud_hold_to_pick_desc" : "Bottini piccoli verranno raccolti automaticamente, mentre tieni premuto il tasto di interazione.",
+	"wolfhud_hold_to_pick_delay_title" : "Auto Pickup Speed",
+	"wolfhud_hold_to_pick_delay_desc" : "Time between automatic pickups while the interact button is held.",
 
     "wolfhud_inventory_options_name" : "Opzioni di miglioramento dell'inventario",
     "wolfhud_inventory_options_help" : "Opzioni per cambiare la visualizzazione del tuo inventario e alterare il comportamento del tuo equipaggiamento nello stesso.",

@@ -905,6 +905,8 @@
 	"wolfhud_doubletap_nades_stealth_desc" : "Wenn ausgewählt, musst du im stealth 2x schnell die Granatentaste drücken, um sie zu werfen. \nZum Vorbeugen von Unfällen.  ;)",
 	"wolfhud_hold_to_pick_title" : "Automatisches Pickup",
 	"wolfhud_hold_to_pick_desc" : "Kleine Beute wird automatisch aufgehoben, während du die Interaktionstaste gedrückt hältst.",
+	"wolfhud_hold_to_pick_delay_title" : "Auto Pickup Speed",
+	"wolfhud_hold_to_pick_delay_desc" : "Time between automatic pickups while the interact button is held.",
 
 	"wolfhud_inventory_options_name" : "Inventar Tweak Optionen",
 	"wolfhud_inventory_options_help" : "Optionen um das Inventar und das Verhalten von Equipment zu verändern.",

@@ -896,6 +896,8 @@
 	"wolfhud_doubletap_nades_stealth_desc" : "Si cochée, vous devrez appuyer deux fois sur votre touche d'arme de jet pour lancer une grenade lors d'un braquage discret. \nCela a pour but d'éviter les accidents.",
 	"wolfhud_hold_to_pick_title" : "Ramassage auto",
 	"wolfhud_hold_to_pick_desc" : "Les petits butins seront automatiquement récupérés pendant que vous appuyez sur votre touche d'action.",
+	"wolfhud_hold_to_pick_delay_title" : "Auto Pickup Speed",
+	"wolfhud_hold_to_pick_delay_desc" : "Time between automatic pickups while the interact button is held.",
 
 	"wolfhud_inventory_options_name" : "Paramètres de l'inventaire",
 	"wolfhud_inventory_options_help" : "Paramètres pour changer l'aperçu de votre inventaire et modifier le comportement des équipements.",
