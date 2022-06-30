@@ -154,7 +154,8 @@
 	"wolfhud_enemy_fbi" : "Agent du FBI",
 	"wolfhud_enemy_swat" : "Agent du SWAT",
 	"wolfhud_enemy_heavy_swat" : "SWAT lourd",
-    "wolfhud_enemy_heavy_swat_sniper" : "Sniper SWAT lourd",
+  "wolfhud_enemy_heavy_swat_sniper" : "Sniper SWAT lourd",
+	"wolfhud_enemy_marshal_marksman" : "US Marshal Sharpshooter",
 	"wolfhud_enemy_city_swat" : "Unité d'élite",
 	"wolfhud_enemy_shield" : "Shield",
 	"wolfhud_enemy_spook" : "Cloaker",
@@ -202,6 +203,7 @@
 	"wolfhud_enemy_vlad" : "Vlad",
 	"wolfhud_enemy_kento" : "Kento",
 	"wolfhud_enemy_triad" : "Triad",
+	"wolfhud_enemy_triad_boss" : "Yufu Wang",
 
 	"wolfhud_enemy_boom" : "Grenadier",
 	"wolfhud_enemy_omnia_lpf" : "OMNIA L.P.F.",

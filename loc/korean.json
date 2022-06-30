@@ -154,7 +154,8 @@
 	"wolfhud_enemy_fbi" : "FBI 유닛",
 	"wolfhud_enemy_swat" : "스왓 유닛",
 	"wolfhud_enemy_heavy_swat" : "해비 스왓",
-    "wolfhud_enemy_heavy_swat_sniper" : "해비 스왓 스나이퍼",
+  "wolfhud_enemy_heavy_swat_sniper" : "해비 스왓 스나이퍼",
+	"wolfhud_enemy_marshal_marksman" : "US Marshal Sharpshooter",
 	"wolfhud_enemy_city_swat" : "엘리트 스왓",
 	"wolfhud_enemy_shield" : "쉴드",
 	"wolfhud_enemy_spook" : "클로커",
@@ -202,6 +203,7 @@
 	"wolfhud_enemy_vlad" : "블라드",
 	"wolfhud_enemy_kento" : "켄토",
 	"wolfhud_enemy_triad" : "Triad",
+	"wolfhud_enemy_triad_boss" : "Yufu Wang",
 
 	"wolfhud_enemy_boom" : "Grenadier",
 	"wolfhud_enemy_omnia_lpf" : "OMNIA L.P.F.",

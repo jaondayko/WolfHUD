@@ -154,7 +154,8 @@
 	"wolfhud_enemy_fbi" : "FBI 特警",
 	"wolfhud_enemy_swat" : "特警",
 	"wolfhud_enemy_heavy_swat" : "重型特警",
-    "wolfhud_enemy_heavy_swat_sniper" : "重型特警狙击手",
+  "wolfhud_enemy_heavy_swat_sniper" : "重型特警狙击手",
+	"wolfhud_enemy_marshal_marksman" : "US Marshal Sharpshooter",
 	"wolfhud_enemy_city_swat" : "城市精英部队/莫奇沃特",
 	"wolfhud_enemy_shield" : "盾牌特警",
 	"wolfhud_enemy_spook" : "幻影特工",
@@ -203,6 +204,7 @@
 	"wolfhud_enemy_vlad" : "弗拉德",
 	"wolfhud_enemy_kento" : "坚斗",
 	"wolfhud_enemy_triad" : "Triad",
+	"wolfhud_enemy_triad_boss" : "Yufu Wang",
 
 	"wolfhud_enemy_boom" : "掷弹兵",
 	"wolfhud_enemy_omnia_lpf" : "OMNIA L.P.F.",

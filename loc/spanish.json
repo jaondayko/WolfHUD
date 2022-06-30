@@ -155,6 +155,7 @@
 	"wolfhud_enemy_swat" : "SOLDADO SWAT",
 	"wolfhud_enemy_heavy_swat" : "SOLDADO PESADO SWAT",
 	"wolfhud_enemy_heavy_swat_sniper" : "SNIPER SWAT PESADO",
+	"wolfhud_enemy_marshal_marksman" : "US Marshal Sharpshooter",
 	"wolfhud_enemy_city_swat" : "SOLDADO ELITE",
 	"wolfhud_enemy_shield" : "ESCUDO",
 	"wolfhud_enemy_spook" : "CLOAKER",
@@ -202,6 +203,7 @@
 	"wolfhud_enemy_vlad" : "Vlad",
 	"wolfhud_enemy_kento" : "Kento",
 	"wolfhud_enemy_triad" : "Triad",
+	"wolfhud_enemy_triad_boss" : "Yufu Wang",
 
 	"wolfhud_enemy_boom" : "Granadero",
 	"wolfhud_enemy_omnia_lpf" : "OMNIA L.P.F.",
