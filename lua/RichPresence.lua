@@ -330,6 +330,8 @@ if RequiredScript == "lib/managers/platformmanager" then
 			["#Level_pex"] = 				"Breakfast in Tijuana",
 			["#Job_fex"] = 					"Buluc's Mansion",
 			["#Level_fex"] = 				"Buluc's Mansion",
+			["#Level_chas"] =				"Dragon Heist",
+			["#Job_chas"] =					"Dragon Heist",
 			["#Job_chca"] = 				"Black Cat Heist",
 			["#Level_chca"] =				"Black Cat Heist",
 			["#Job_pent"] = 				"Mountain Master",
