@@ -37,8 +37,6 @@ function WolfHUDTweakData:init()
 	self.STEALTH_SHAPED_CHARGE_TIMEOUT = 0.25
 	-- Time within 2 presses of the interact button, to close a door using a keycard. (hoxton breakout day 2)
 	self.KEYCARD_DOORS_TIMEOUT = 0.25
-	-- Time between 2 automatical pickups, when the interaction button remains pressed.
-	self.AUTO_PICKUP_DELAY = 0.2
 
 	-- Component Layouts  for Lobby and briefing loadout panels.
 	-- The total width and height of those panels are fixed, so adding too many components into a row or column will make them incredibly small.
@@ -128,6 +126,7 @@ function WolfHUDTweakData:init()
 		[ "captain" ] 							= { default = "wolfhud_enemy_civilian" },
 		[ "gangster" ] 							= { default = "wolfhud_enemy_gangster" },
 		[ "triad" ] 							= { default = "wolfhud_enemy_triad" },
+		[ "triad_boss" ] 							= { default = "wolfhud_enemy_triad_boss" },
 		[ "biker" ] 							= { default = "wolfhud_enemy_biker" },
 		[ "biker_escape" ] 						= { default = "wolfhud_enemy_biker" },
 		[ "bolivian_indoors" ]					= { default = "wolfhud_enemy_bolivian_security" },
@@ -148,7 +147,8 @@ function WolfHUDTweakData:init()
 		[ "heavy_swat" ] 						= { default = "wolfhud_enemy_heavy_swat" },
 		[ "fbi_swat" ] 							= { default = "wolfhud_enemy_swat" },
 		[ "fbi_heavy_swat" ] 					= { default = "wolfhud_enemy_heavy_swat" },
-        [ "heavy_swat_sniper" ] 				= { default = "wolfhud_enemy_heavy_swat_sniper" },
+    [ "heavy_swat_sniper" ] 				= { default = "wolfhud_enemy_heavy_swat_sniper" },
+		[ "marshal_marksman" ] 							= { default = "wolfhud_enemy_marshal_marksman" },
 		[ "city_swat" ] 						= { default = "wolfhud_enemy_city_swat" },
 		[ "shield" ] 							= { default = "wolfhud_enemy_shield" },
 		[ "spooc" ] 							= { default = "wolfhud_enemy_spook" },

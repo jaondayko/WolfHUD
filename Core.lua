@@ -365,6 +365,7 @@ if not _G.WolfHUD then
 				SHOW_MELEE								= false,
 				SUPRESS_NADES_STEALTH					= true,
 				HOLD2PICK								= true,
+				HOLD2PICK_DELAY					= 0.2,
 			},
 			GADGETS = {
 				LASER_AUTO_ON 							= true,

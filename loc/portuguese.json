@@ -154,7 +154,8 @@
 	"wolfhud_enemy_fbi" : "Unidade do FBI",
 	"wolfhud_enemy_swat" : "Unidade da SWAT",
 	"wolfhud_enemy_heavy_swat" : "Heavy SWAT",
-    "wolfhud_enemy_heavy_swat_sniper" : "Heavy SWAT Sniper",
+  "wolfhud_enemy_heavy_swat_sniper" : "Heavy SWAT Sniper",
+	"wolfhud_enemy_marshal_marksman" : "US Marshal Sharpshooter",
 	"wolfhud_enemy_city_swat" : "Elite Unit",
 	"wolfhud_enemy_shield" : "Shield",
 	"wolfhud_enemy_spook" : "Cloaker",
@@ -202,6 +203,7 @@
 	"wolfhud_enemy_vlad" : "Vlad",
 	"wolfhud_enemy_kento" : "Kento",
 	"wolfhud_enemy_triad" : "Triad",
+	"wolfhud_enemy_triad_boss" : "Yufu Wang",
 
 	"wolfhud_enemy_boom" : "Grenadeiro",
 	"wolfhud_enemy_omnia_lpf" : "OMNIA L.P.F.",
@@ -897,6 +899,8 @@
 	"wolfhud_doubletap_nades_stealth_desc" : "Quando marcado, você precisa apertar a tecla 2x para arremessar uma granada no stealth. \nApenas para prevenir acidentes.",
 	"wolfhud_hold_to_pick_title" : "Pickup automático",
 	"wolfhud_hold_to_pick_desc" : "Todo loot pequeno será pego automaticamente, enquanto a tecla de interação estiver pressionada.",
+	"wolfhud_hold_to_pick_delay_title" : "Auto Pickup Speed",
+	"wolfhud_hold_to_pick_delay_desc" : "Time between automatic pickups while the interact button is held.",
 
 	"wolfhud_inventory_options_name" : "Opções de melhoria no inventário",
 	"wolfhud_inventory_options_help" : "Opções para mudar o visual e o comportamento do seu inventário.",
@@ -1004,5 +1008,21 @@
 	"wolfhud_assaultbanner_options_help" : "Opções para mudar o Assault Banner.",
 	
 	"wolfhud_disable_blend_mode_title" : "Disable Blend Mode For CustomHUD",
-	"wolfhud_disable_blend_mode_desc" : "Disables the blend mode for CustomHUD. Increases the contrast of the interface."
+	"wolfhud_disable_blend_mode_desc" : "Disables the blend mode for CustomHUD. Increases the contrast of the interface.",
+
+	"wolfhud_state_menu" : "At the main menu",
+	"wolfhud_state_private" : "In a private lobby",
+	"wolfhud_state_lobby_no_job" : "In a lobby",
+	"wolfhud_state_lobby" : "Lobby",
+	"wolfhud_state_playing" : "Playing",
+	"wolfhud_state_payday" : "Payday",
+
+	"wolfhud_difficulty_easy" : "EASY",
+	"wolfhud_difficulty_normal" : "NORMAL",
+	"wolfhud_difficulty_hard" : "HARD",
+	"wolfhud_difficulty_very_hard" : "VERY HARD",
+	"wolfhud_difficulty_overkill" : "OVERKILL",
+	"wolfhud_difficulty_mayhem" : "MAYHEM",
+	"wolfhud_difficulty_deathwish" : "DEATHWISH",
+	"wolfhud_difficulty_death_sentence" : "DEATH SENTENCE"
 }

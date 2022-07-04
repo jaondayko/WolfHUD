@@ -474,7 +474,7 @@ elseif string.lower(RequiredScript) == "lib/units/interactions/interactionext" t
 	end
 
 elseif string.lower(RequiredScript) == "lib/managers/objectinteractionmanager" then
-	ObjectInteractionManager.AUTO_PICKUP_DELAY = WolfHUD:getTweakEntry("AUTO_PICKUP_DELAY", "number", 0.2)	 --Delay in seconds between auto-pickup procs (0 -> as fast as possible)
+	ObjectInteractionManager.AUTO_PICKUP_DELAY = WolfHUD:getSetting({"INTERACTION", "HOLD2PICK_DELAY"}, 0.2)	 --Delay in seconds between auto-pickup procs (0 -> as fast as possible)
 	local _update_targeted_original = ObjectInteractionManager._update_targeted
 	function ObjectInteractionManager:_update_targeted(player_pos, player_unit, ...)
 		_update_targeted_original(self, player_pos, player_unit, ...)

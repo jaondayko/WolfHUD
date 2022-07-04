@@ -3573,6 +3573,18 @@ if WolfHUD then
 						visible_reqs = {}, enabled_reqs = {},
 					},
 					{
+						type = "slider",
+						name_id = "wolfhud_hold_to_pick_delay_title",
+						desc_id = "wolfhud_hold_to_pick_delay_desc",
+						value = {"INTERACTION", "HOLD2PICK_DELAY"},
+						visible_reqs = {
+							{ setting = { "INTERACTION", "HOLD2PICK" }, invert = false },},
+						enabled_reqs = {},
+						min_value = 0,
+						max_value = 1,
+						step_size = 0.1,
+					},
+					{
 						type = "toggle",
 						name_id = "wolfhud_doubletap_nades_stealth_title",
 						desc_id = "wolfhud_doubletap_nades_stealth_desc",
