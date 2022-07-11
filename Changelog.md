@@ -8,7 +8,7 @@
 	- Use gender-neutral pronouns
 	- Move the force start chat message to the localization files
 	- Federal Inventory 12.05.2022
-	- Localization fixes
+	- Localization fixes (Russian)
 
 # WolfHUD v3.7.1
 - General
